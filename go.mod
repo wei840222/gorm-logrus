@@ -1,4 +1,4 @@
-module github.com/onrik/gorm-logrus
+module github.com/wei840222/gorm-logrus
 
 go 1.14
 
